@@ -15,8 +15,8 @@
 
     <repositories>
         <repository>
-            <id>dg-mg</id>
-            <url>http://repo.ii.dg-mg.club/</url>
+            <id>GrantServer</id>
+            <url>http://149.56.132.187:8080/</url>
         </repository>
         <repository>
             <id>md_5-releases</id>
